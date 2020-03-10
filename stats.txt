@@ -1,0 +1,4 @@
+The number of nodes is: 112
+The number of edges is: 247
+The diameter is: 9
+The average distance of the graph is: 3.7067245817245817
